@@ -16,7 +16,9 @@ section{
     border: solid 1px rgb(0, 0, 0);
     padding-bottom: 20px;
 }
-
+h2{
+    font-family: 'Island Moments', cursive;
+}
 section h2, section p, section button{
     margin-left: 20px;
     margin-right: 20px;
