@@ -25,19 +25,21 @@ nav ul {
 
 .main_div {
     margin: 3vh;
-    width: 202px;
+    width: 252px;
     padding: 0 0 0 0;
     border: solid 1px black;
     display: inline;
 }
-
+p{
+    font-size: large;
+}
 main{
     display: flex;
     flex-wrap: wrap;
 }
 
 .restaurant_image{
-    width: 200px;
+    width: 250px;
 }
 
 @media only screen and (max-width: 1000px) {
